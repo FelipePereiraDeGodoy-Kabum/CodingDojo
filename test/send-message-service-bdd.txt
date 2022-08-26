@@ -1,0 +1,6 @@
+validar se o remetente e o destinatario existem
+
+dado um payload com um remente e um destinatario
+quando enviado para o caso de uso SendMessageService
+deve ser validado se os mesmo existem no banco de dados.
+
